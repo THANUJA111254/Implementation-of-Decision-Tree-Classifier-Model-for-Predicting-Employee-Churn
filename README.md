@@ -76,22 +76,37 @@ Data Head:
 
 
 isnull() sum():
+
+
 ![exp 8 ml 4](https://github.com/user-attachments/assets/0357b833-e18c-4757-8ac0-697ca00e6fd9)
 
 
 Data Head for salary:
+
+
 ![exp 8 ml 5](https://github.com/user-attachments/assets/b556ee78-5a29-440e-9166-9fa1286dcbc4)
 
+
+
 MSE:
+
+
 ![ML 9](https://github.com/user-attachments/assets/ee498c62-465a-4c4e-a009-151a77da8a59)
 
+
+
 R2:
+
+
 ![10](https://github.com/user-attachments/assets/8f03e6f5-e956-4b53-a063-52a0da3dbde0)
+
+
 
 
 DATA PREDICTION:
 
-![11](https://github.com/user-attachments/assets/48059f5b-9128-4ebb-890e-224be234110c)
+![ML11](https://github.com/user-attachments/assets/65b8e4b8-a49d-4eb3-b60d-409bd27ce817)
+
 
 
 
